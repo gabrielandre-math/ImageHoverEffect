@@ -47,6 +47,4 @@ img {
     background: rgba(8, 233, 245, 0.9);
 }
 
-.wrapper:hover .overlay{
-    opacity: 1;
-}
+.wrapper:hover .overlay { opacity: 1;}
