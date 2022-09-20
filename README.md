@@ -1,5 +1,5 @@
 # ImageHoverEffect
-A Simple Project in CSS.
+A Simple Project in CSS
 
 Codepen link --> https://codepen.io/ANDREGABRIELS/pen/zYPbOLd
 
